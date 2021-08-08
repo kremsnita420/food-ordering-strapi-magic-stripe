@@ -1,0 +1,21 @@
+.product {
+  padding: 24px;
+  font-style: 24px;
+}
+
+.product__Row {
+  display: flex;
+}
+
+.product__ColImg,
+.product__Col {
+  flex: 1;
+}
+
+.product__ColImg {
+  width: 175px;
+  height: 150px;
+  object-fit: cover;
+  overflow: hidden;
+  margin-right: 25px;
+}

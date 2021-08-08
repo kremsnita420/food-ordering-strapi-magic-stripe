@@ -1,0 +1,230 @@
+[
+    {
+    "id": 1,
+    "name": "Buffala Di Sicilia",
+    "content": "pelati, mocarela, pečen pršut, češnjev paradižnik, sveža bazilika, mocarela buffala, balzamični kis",
+    "meta_description": "pelati, mocarela, pečen pršut, češnjev paradižnik, sveža bazilika, mocarela buffala, balzamični kis",
+    "meta_title": "pelati, mocarela, pečen pršut, češnjev paradižnik, sveža bazilika, mocarela buffala, balzamični kis",
+    "price": 9.9,
+    "slug": "buffala-di-s-icilia",
+    "published_at": "2021-08-07T09:06:23.968Z",
+    "created_at": "2021-08-07T09:06:21.326Z",
+    "updated_at": "2021-08-07T09:07:33.870Z",
+    "image": {
+    "id": 1,
+    "name": "pizza-1 copy.jpg",
+    "alternativeText": "",
+    "caption": "",
+    "width": 5184,
+    "height": 3456,
+    "formats": {
+    "thumbnail": {
+    "name": "thumbnail_pizza-1 copy.jpg",
+    "hash": "thumbnail_pizza_1_copy_6981d412a9",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 234,
+    "height": 156,
+    "size": 12.42,
+    "path": null,
+    "url": "/uploads/thumbnail_pizza_1_copy_6981d412a9.jpg"
+    },
+    "large": {
+    "name": "large_pizza-1 copy.jpg",
+    "hash": "large_pizza_1_copy_6981d412a9",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 1000,
+    "height": 667,
+    "size": 151.16,
+    "path": null,
+    "url": "/uploads/large_pizza_1_copy_6981d412a9.jpg"
+    },
+    "medium": {
+    "name": "medium_pizza-1 copy.jpg",
+    "hash": "medium_pizza_1_copy_6981d412a9",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 750,
+    "height": 500,
+    "size": 92.73,
+    "path": null,
+    "url": "/uploads/medium_pizza_1_copy_6981d412a9.jpg"
+    },
+    "small": {
+    "name": "small_pizza-1 copy.jpg",
+    "hash": "small_pizza_1_copy_6981d412a9",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 500,
+    "height": 333,
+    "size": 44.79,
+    "path": null,
+    "url": "/uploads/small_pizza_1_copy_6981d412a9.jpg"
+    }
+    },
+    "hash": "pizza_1_copy_6981d412a9",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 2384.4,
+    "url": "/uploads/pizza_1_copy_6981d412a9.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "created_at": "2021-08-07T09:06:08.224Z",
+    "updated_at": "2021-08-07T09:06:08.235Z"
+    }
+    },
+    {
+    "id": 2,
+    "name": "RUKOLA",
+    "content": "pelati, mocarela, panceta, sveži paradižnik, rukola, parmezan, olivno olje",
+    "meta_description": "pelati, mocarela, panceta, sveži paradižnik, rukola, parmezan, olivno olje",
+    "meta_title": "pelati, mocarela, panceta, sveži paradižnik, rukola, parmezan, olivno olje",
+    "price": 12.5,
+    "slug": "rukola",
+    "published_at": "2021-08-07T09:09:11.301Z",
+    "created_at": "2021-08-07T09:09:10.057Z",
+    "updated_at": "2021-08-07T09:09:11.320Z",
+    "image": {
+    "id": 2,
+    "name": "featured2.jpg",
+    "alternativeText": "",
+    "caption": "",
+    "width": 1280,
+    "height": 853,
+    "formats": {
+    "thumbnail": {
+    "name": "thumbnail_featured2.jpg",
+    "hash": "thumbnail_featured2_8a99e2e125",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 234,
+    "height": 156,
+    "size": 13.62,
+    "path": null,
+    "url": "/uploads/thumbnail_featured2_8a99e2e125.jpg"
+    },
+    "large": {
+    "name": "large_featured2.jpg",
+    "hash": "large_featured2_8a99e2e125",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 1000,
+    "height": 666,
+    "size": 150.65,
+    "path": null,
+    "url": "/uploads/large_featured2_8a99e2e125.jpg"
+    },
+    "medium": {
+    "name": "medium_featured2.jpg",
+    "hash": "medium_featured2_8a99e2e125",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 750,
+    "height": 500,
+    "size": 90.6,
+    "path": null,
+    "url": "/uploads/medium_featured2_8a99e2e125.jpg"
+    },
+    "small": {
+    "name": "small_featured2.jpg",
+    "hash": "small_featured2_8a99e2e125",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 500,
+    "height": 333,
+    "size": 45.56,
+    "path": null,
+    "url": "/uploads/small_featured2_8a99e2e125.jpg"
+    }
+    },
+    "hash": "featured2_8a99e2e125",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 243.32,
+    "url": "/uploads/featured2_8a99e2e125.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "created_at": "2021-08-07T09:08:58.720Z",
+    "updated_at": "2021-08-07T09:08:58.729Z"
+    }
+    },
+    {
+    "id": 3,
+    "name": "MORSKA",
+    "content": "pelati, mocarela, morski sadeži, tržaška omaka",
+    "meta_description": "pelati, mocarela, morski sadeži, tržaška omaka",
+    "meta_title": "pelati, mocarela, morski sadeži, tržaška omaka",
+    "price": 14.95,
+    "slug": "morska",
+    "published_at": "2021-08-07T09:13:54.389Z",
+    "created_at": "2021-08-07T09:13:52.026Z",
+    "updated_at": "2021-08-07T09:13:54.406Z",
+    "image": {
+    "id": 3,
+    "name": "pizza-2.jpg",
+    "alternativeText": "",
+    "caption": "",
+    "width": 1920,
+    "height": 1280,
+    "formats": {
+    "thumbnail": {
+    "name": "thumbnail_pizza-2.jpg",
+    "hash": "thumbnail_pizza_2_74e5686e57",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 234,
+    "height": 156,
+    "size": 13.52,
+    "path": null,
+    "url": "/uploads/thumbnail_pizza_2_74e5686e57.jpg"
+    },
+    "large": {
+    "name": "large_pizza-2.jpg",
+    "hash": "large_pizza_2_74e5686e57",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 1000,
+    "height": 667,
+    "size": 155.78,
+    "path": null,
+    "url": "/uploads/large_pizza_2_74e5686e57.jpg"
+    },
+    "medium": {
+    "name": "medium_pizza-2.jpg",
+    "hash": "medium_pizza_2_74e5686e57",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 750,
+    "height": 500,
+    "size": 96.33,
+    "path": null,
+    "url": "/uploads/medium_pizza_2_74e5686e57.jpg"
+    },
+    "small": {
+    "name": "small_pizza-2.jpg",
+    "hash": "small_pizza_2_74e5686e57",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "width": 500,
+    "height": 333,
+    "size": 49.9,
+    "path": null,
+    "url": "/uploads/small_pizza_2_74e5686e57.jpg"
+    }
+    },
+    "hash": "pizza_2_74e5686e57",
+    "ext": ".jpg",
+    "mime": "image/jpeg",
+    "size": 448.1,
+    "url": "/uploads/pizza_2_74e5686e57.jpg",
+    "previewUrl": null,
+    "provider": "local",
+    "provider_metadata": null,
+    "created_at": "2021-08-07T09:13:30.327Z",
+    "updated_at": "2021-08-07T09:13:30.352Z"
+    }
+    }
+    ]
